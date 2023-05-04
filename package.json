@@ -1,0 +1,14 @@
+{
+  "name": "ci_cd",
+  "version": "1.0.0",
+  "description": "ceci est une demo de githun action ci cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khaoula",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}
